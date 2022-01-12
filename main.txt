@@ -1,4 +1,8 @@
 ilk kod
 
 
-ikinci deneme
+ikinci deneme ( satır değiştirildi )
+
+for(int x=0;x<5;x++){
+	printf("git kullanmayı öğreniyorum");
+}
